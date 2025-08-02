@@ -1,2 +1,3 @@
 file 2 at commit 2
 file 2 at commit 3
+file 2 at commit 4
