@@ -1,1 +1,2 @@
 File in directory 2 commit 2
+File in directory 2 commit 4
